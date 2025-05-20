@@ -7,7 +7,9 @@
 <br>
 
 ### Description
-The prediction page allows users to input a comma-separated numeric sequence, click "Predict," and instantly see the next predicted value using an LSTM model. It features a clean, centered input box, a styled predict button, and displays the result below. The design uses a blue gradient background for a modern look.
+This web application allows users to input a numeric sequence and receive a prediction from an LSTM model. After entering a sequence and clicking the Predict button, the model processes the input and displays the next value in the sequence.
+
+Your predicted score: 2.4403963
 
 
 ## Runserver
